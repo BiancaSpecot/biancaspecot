@@ -26,5 +26,6 @@
   
 </div>
 
-uses: Platane/snk/svg-only@v2
+![Snake animation](https://github.com/BiancaSpecot/biancaspecot/blob/output/github-contribution-grid-snake.svg)
+
 
